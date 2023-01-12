@@ -25,7 +25,7 @@ export default {
         return {
             info_available: false,
             BASE_URL: "https://api.openweathermap.org/data/2.5/weather?",
-            API_KEY: "11ccc85d3db11be8d387f84e41cc5820",
+            API_KEY: "YOUR_API_KEY_HERE_:)",
             city: '',
             items: ["Temperature (F)", "Humidity (%)", "Pressure (hPa)"],
             temp: '',
