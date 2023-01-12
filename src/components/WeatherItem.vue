@@ -23,12 +23,12 @@ export default {
     width: 340px;
     margin-right: auto;
     margin-left: auto;
-    margin-top: 30px;
+    margin-top: 20px;
     border: 1px solid blue;
 }
 
-.item * {
-    height: 45px;
+header, body {
+    height: 40px;
     font-size: 125%;
 }
 
@@ -40,7 +40,7 @@ header {
 
 body {
     color: blue;
-    height: 35px;
+    height: 25px;
 }
 
 </style>
